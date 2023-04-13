@@ -3,6 +3,10 @@ table {
   margin-top: 20px;
 }
 
+#addBtn {
+  background-color: cornflowerblue;
+}
+
 th,
 td {
   border: 1px solid black;
